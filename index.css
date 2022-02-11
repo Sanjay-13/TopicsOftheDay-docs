@@ -3,7 +3,7 @@ ul {
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: #006747;
+    background-color: #333;
   }
   li {
     border-right: 1px solid #bbb;
@@ -30,8 +30,8 @@ ul {
   }
   
   .active {
-    background-color: #006747;
-    color: white;
+    background-color: lightgray;
+    color: black;
   }
   h1, p{
       text-align: center;
